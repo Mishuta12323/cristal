@@ -1,11 +1,11 @@
 {
-  "name": "CristalUkraine",
+  "name": "CristalUkraine1.1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/CristalUkraine/",
+    "build": "vite build --base=/CristalUkraine1.1/",
     "preview": "vite preview"
   },
   "devDependencies": {

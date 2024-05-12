@@ -1,0 +1,32 @@
+.mob-container{
+
+  background-color: darkgray;
+}
+
+
+.theme-picker-form{
+  background-color: darkgrey;
+}
+
+.theme-picker-fieldset {
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  border: none;
+  gap: 5px;
+  
+  border-radius: 50px;
+}
+
+.theme-picker-input {
+  appearance: none;
+
+  width: 25px;
+  height: 25px;
+  border: 1px solid var(--white);
+  border-radius: 50%;
+
+  cursor: pointer;
+
+  transition: all 250ms ease-in-out;
+}
